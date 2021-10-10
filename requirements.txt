@@ -1,3 +1,5 @@
-streamlit
-pandas
 numpy
+pandas
+pyspark
+streamlit
+sklearn
